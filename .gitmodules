@@ -1,0 +1,3 @@
+[submodule "dwarfparse"]
+	path = dwarfparse
+	url = https://github.com/realmoriss/dwarfparse
